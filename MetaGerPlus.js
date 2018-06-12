@@ -70,7 +70,7 @@
         }
 
         .versteckt {
-            opacity: 0.1;
+            opacity: 0.05;
         }
 
         .zeigen {
